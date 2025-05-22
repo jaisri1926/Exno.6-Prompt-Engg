@@ -1,5 +1,4 @@
-# Exno.6-Prompt-Engg
-# Date:
+# Exno.6-Prompt-
 # Register no.
 # Aim: Development of Python Code Compatible with Multiple AI Tools
 
