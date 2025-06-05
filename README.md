@@ -130,7 +130,7 @@ if __name__ == "__main__":
         "Write a Python function to calculate Fibonacci sequence",
         "What are the main differences between React and Vue.js?"
     ]
-    
+ 
     # Run comparison
     comparator.run_comparison(test_prompts)
     
